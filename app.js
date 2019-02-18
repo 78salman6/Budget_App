@@ -462,10 +462,3 @@ e1.getValue.call(in1) // 1900
 Expense.prototype.getValue.call(in1) // 1900
 */
 
-/*
-My goal with this is not to make you copy the code and then make your own similar applications. What I want, is you to learn how to program, and how to think as a programmer, how to use these tools to solve the particular problems that you might have to solve in your case. So while this code and this small simple architecure is good for this project, it might not be in your case. But that's okay, because, once again, this project is just to show you how to use the tools JavaScript gives us.
-
-So once again, this is a very simple app. If you have a more complex app you wanna build, you're probably going to use some grameowrk or library like Angular or React. And that's fine, but you still will have to understand JavaScript, and that's what this course and this project is for.
-
-
-*/
